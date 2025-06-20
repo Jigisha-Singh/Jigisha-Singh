@@ -30,12 +30,12 @@ I’m passionate about using *code and data* to solve real-world problems and cu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jigisha-Singh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" 
-    alt="Jigisha Singh's GitHub Streak Stats"
-    style="max-width: 100%; height: auto;"
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jigisha-Singh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+    alt="Jigisha‑Singh’s GitHub streak stats"
   />
 </p>
+
 
 ---
 
