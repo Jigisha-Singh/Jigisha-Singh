@@ -1,4 +1,4 @@
-![Jigisha Singh](https://raw.githubusercontent.com/Jigisha-Singh/your-repo/main/jigisha.jpg)
+![Jigisha Singh](https://raw.githubusercontent.com/Jigisha-Singh/Jigisha-Singh/main/jigisha.jpg)
 
 # 👋 Hello there!
 
