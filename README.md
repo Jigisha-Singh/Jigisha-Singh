@@ -1,3 +1,5 @@
+![Jigisha Singh](https://raw.githubusercontent.com/Jigisha-Singh/your-repo/main/jigisha.jpg)
+
 # 👋 Hello there!
 
 I'm *Jigisha Singh*, an enthusiastic Computer Science (Data Science) student at AMC Engineering College.  
