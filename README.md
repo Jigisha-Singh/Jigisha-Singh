@@ -41,12 +41,6 @@ I’m passionate about using *code and data* to solve real-world problems and cu
 
 ---
 
-## 🌱 Currently Learning
-- Frontend frameworks (React basics)
-- Real-world data visualization
-- Git & open-source collaboration
-
----
 
 ## 📫 Let's Connect:
 
