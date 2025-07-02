@@ -55,5 +55,4 @@ I’m passionate about using *code and data* to solve real-world problems and cu
 
 ---
 
-⚡ *Fun Fact:*  
-> "Still learning, still building — but already dreaming in code. 💻✨"
+
